@@ -1,0 +1,2 @@
+g3.4xlarge
+~60% load, spike 90%
